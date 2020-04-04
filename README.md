@@ -39,7 +39,7 @@ A semana é pilotada por [Diego Fernandes](https://github.com/diego3g)
 ### Licença :memo:
 
 Esse projeto está sob a licença MIT. Veja o arquivo<br />
-[LICENSE](LICENSE.md) para mais detalhes.
+[LICENSE](LICENSE) para mais detalhes.
 
 <br />
 
