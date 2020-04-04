@@ -25,8 +25,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 
 <h4 align="center">
-  <img src="./frontend/src/assets/heroes.png" width="250px" /><br>
-  <b>Seja o heroi!</b>
+  <img src="./frontend/src/assets/heroes.png" /><br>
 </h4>
 
 ### Quem é o piloto da Semana OmniStack? :rocket:
