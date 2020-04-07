@@ -36,6 +36,13 @@ uma instituição de caridade, ajudando a mesma a se manter.
 
 A semana é pilotada por [Diego Fernandes](https://github.com/diego3g)
 
+### :recycle: Como contribuir
+
+- Fork esse repositório;
+- Crie uma branch com a sua feature: `git checkout -b my-feature`
+- Commit suas mudanças: `git commit -m 'feat: My new feature'`
+- Push a sua branch: `git push origin my-feature`
+
 ### Licença :memo:
 
 Esse projeto está sob a licença MIT. Veja o arquivo<br />
